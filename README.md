@@ -1,4 +1,3 @@
-# Crash-and-Boom
 import pygame
 import time
 
